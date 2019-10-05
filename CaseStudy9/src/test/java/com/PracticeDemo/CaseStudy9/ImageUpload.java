@@ -7,7 +7,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 public class ImageUpload {
-	
+	//WebDriver defined
 	WebDriver driver;	
 
 	@Test(priority = 1)
