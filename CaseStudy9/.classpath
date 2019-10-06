@@ -23,6 +23,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="F:/Jars/org.apache.commons.io.jar"/>
 	<classpathentry kind="lib" path="F:/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="F:/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
